@@ -29,7 +29,6 @@ for (let i = 0; i < hapus.length; i++) {
 
 for (let i = 0; i < hapus.length; i++) {
     tambah[i].addEventListener('click',function(){
-        teman[i] = nama[i];
         tambah_teman[i].style.display ='none';
           
         A[i] = 1;
